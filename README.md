@@ -3,7 +3,7 @@
 This repository lists cybersecurity tools, platforms, and resources grouped by category.  
 ⚠️ Always use these tools ethically and with proper authorization.
 
-## General
+## 📖 General
 - **[hackviser](https://hackviser.com/tactics/tools)** - Hardening/Tools/Pentesting Tactics
 - **[hacktricks](https://hacktricks.wiki/en/pentesting-web/sql-injection/postgresql-injection/index.html)** - Hardening/Tools/Pentesting Tactics
 
