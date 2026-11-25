@@ -59,7 +59,8 @@ This repository lists cybersecurity tools, platforms, and resources grouped by c
 - **[Medusa](https://github.com/jmk-foofus/medusa)** - Parallel brute-force tool  
 - **[Ophcrack](https://ophcrack.sourceforge.net/)** - Windows password cracker  
 - **[Cain & Abel](https://sectools.org/tool/cain/)** - Windows password recovery  
-- **[PrivateBin](https://github.com/PrivateBin/PrivateBin)** - Secure password / secret sharing  
+- **[PrivateBin](https://github.com/PrivateBin/PrivateBin)** - Secure password / secret sharing
+- **[GitLeaks](https://github.com/gitleaks/gitleaks)** - Show   
 
 ---
 
